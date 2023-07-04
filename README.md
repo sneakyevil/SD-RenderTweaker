@@ -3,7 +3,7 @@
 ![Latest Downloads](https://img.shields.io/github/downloads/sneakyevil/SleepingDogs-RenderTweaker/latest/total?color=red&label=Latest%20Downloads)
 
 # Installation
-1. Read readme from SDmodding org: [Here](https://github.com/SDmodding/.github/blob/main/profile/README.md)
+1. First check readme from SDmodding org: [Here](https://github.com/SDmodding/.github/blob/main/profile/README.md)
 2. Download latest [Release.rar](https://github.com/sneakyevil/SleepingDogs-RenderTweaker/releases/latest) file from Release or by [Clicking here](https://github.com/sneakyevil/SleepingDogs-RenderTweaker/releases/latest/download/Release.rar).
 3. Extract all files inside game folder
 4. Launch game
@@ -11,3 +11,6 @@
 
 # Preview
 ![Preview](https://i.imgur.com/OIYWfqx.png)
+
+# Bug Reports/Requests
+If there is any bug or you got any request, open the issue and properly describe about the thing.
