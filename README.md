@@ -1,6 +1,6 @@
-[![Current Release](https://img.shields.io/github/v/release/sneakyevil/SleepingDogs-RenderTweaker?label=Current%20Release&color=red)](https://github.com/sneakyevil/SleepingDogs-ModMenu/releases/latest/download/ModMenu.rar)
-![Downloads](https://img.shields.io/github/downloads/sneakyevil/SleepingDogs-RenderTweaker/total?label=Total%20Downloads&color=red)
-![Latest Downloads](https://img.shields.io/github/downloads/sneakyevil/SleepingDogs-RenderTweaker/latest/total?color=red&label=Latest%20Downloads)
+[![Current Release](https://img.shields.io/github/v/release/sneakyevil/SleepingDogs-RenderTweaker?label=Current%20Release&color=red&id=0)](https://github.com/sneakyevil/SleepingDogs-ModMenu/releases/latest/download/ModMenu.rar)
+![Downloads](https://img.shields.io/github/downloads/sneakyevil/SleepingDogs-RenderTweaker/total?label=Total%20Downloads&color=red&id=0)
+![Latest Downloads](https://img.shields.io/github/downloads/sneakyevil/SleepingDogs-RenderTweaker/latest/total?color=red&label=Latest%20Downloads&id=0)
 
 # Installation
 1. First check readme from SDmodding org: [Here](https://github.com/SDmodding/.github/blob/main/profile/README.md)
