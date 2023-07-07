@@ -10,7 +10,7 @@
 5. If everything was installed properly you should be able to open the UI by pressing `F10`.
 
 # Preview
-![Preview](https://i.imgur.com/OIYWfqx.png)
+![Preview](https://i.imgur.com/WBLEbY5.png)
 
 # Bug Reports/Requests
 If there is any bug or you got any request, open the issue and properly describe about the thing.
