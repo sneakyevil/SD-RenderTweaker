@@ -45,8 +45,14 @@
 1. First check readme from SDmodding org: [Here](https://github.com/SDmodding/.github/blob/main/profile/README.md)
 2. Download latest [Release.rar](https://github.com/sneakyevil/SleepingDogs-RenderTweaker/releases/latest) file from Release or by [Clicking here](https://github.com/sneakyevil/SleepingDogs-RenderTweaker/releases/latest/download/Release.rar).
 3. Extract all files inside game folder
-4. Launch game
-5. If everything was installed properly you should be able to open the UI by pressing `F10`.
+5. Launch game
+6. If everything was installed properly you should be able to open the UI by pressing `F10`.
+<details>
+  <summary>Note for Linux Users:</summary>
+  
+  - You need to use launch option for game: `WINEDLLOVERRIDES="dinput8=n,b" %command%` this will make sure the dinput8.dll is used from game directory instead native dll provided by wine/proton.
+  - This is needed because dinput8.dll is asi loader that allows it to load this modification!
+</details>
 
 # Preview
 ![Preview](https://i.imgur.com/WBLEbY5.png)
