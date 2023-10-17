@@ -1,4 +1,4 @@
-[![Current Release](https://img.shields.io/github/v/release/sneakyevil/SleepingDogs-RenderTweaker?label=Current%20Release&color=red&id=0)](https://github.com/sneakyevil/SleepingDogs-RenderTweaker/releases/latest/download/Release.rar)
+[![Current Release](https://img.shields.io/github/v/release/sneakyevil/SleepingDogs-RenderTweaker?label=Current%20Release&color=red&id=0)](https://github.com/sneakyevil/SleepingDogs-RenderTweaker/releases/latest/download/Release.zip)
 ![Downloads](https://img.shields.io/github/downloads/sneakyevil/SleepingDogs-RenderTweaker/total?label=Total%20Downloads&color=red&id=0)
 ![Latest Downloads](https://img.shields.io/github/downloads/sneakyevil/SleepingDogs-RenderTweaker/latest/total?color=red&label=Latest%20Downloads&id=0)
 
