@@ -7,6 +7,12 @@
   
   - Camera:
     - FOV
+    - Vehicle:
+        - Disable Auto Center
+        - Auto Center Timer
+        - Center Speed
+        - Disable Noise
+        - Disable Reverse
   - Game:
     - Highlight:
       - Attacking Character (Combat)
