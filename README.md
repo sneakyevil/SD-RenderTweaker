@@ -44,6 +44,11 @@
       - Enable
       - Scale Factor
 </details>
+<details>
+  <summary>Game Bug Fixes</summary>
+  
+  - Game window overlap to 2nd monitor in fullscreen mode.
+</details>
 
 ---
 
