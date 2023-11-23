@@ -20,6 +20,7 @@
     - Ambient Occlusion (AO)
     - Anti Alias (AA)
     - Depth Of Field (DOF)
+    - Hair Blur
     - HDR Bloom
     - Planar Reflections
     - Sky Irradiance Volumes
