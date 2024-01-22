@@ -16,6 +16,8 @@
   - Game:
     - Highlight:
       - Attacking Character (Combat)
+    - World Effects:
+        - Disable Health UI
   - Renderer:
     - Ambient Occlusion (AO)
     - Anti Alias (AA)
@@ -67,7 +69,7 @@
 </details>
 
 # Preview
-![Preview](https://i.imgur.com/WBLEbY5.png)
+![Preview](https://github.com/sneakyevil/SD-RenderTweaker/assets/29150970/f3303800-5a1e-41ef-99e5-f7dad2432a5d)
 
 # Bug Reports/Requests
 If there is any bug or you got any request, open the issue and properly describe about the thing.
