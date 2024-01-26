@@ -16,6 +16,7 @@
   - Game:
     - Highlight:
       - Attacking Character (Combat)
+      - Environment Objects (Combat/Grapple)
     - World Effects:
         - Disable Health UI
   - Renderer:
@@ -39,6 +40,8 @@
       - Region Indicator
       - Social Award
     - Overlay:
+      - Action Buttons (Combat, Arrest, etc...)
+      - Action Prompts (Vault, Sleep, etc...)
       - Objective Indicator
   - UI:
     - Text:
@@ -69,7 +72,7 @@
 </details>
 
 # Preview
-![Preview](https://github.com/sneakyevil/SD-RenderTweaker/assets/29150970/f3303800-5a1e-41ef-99e5-f7dad2432a5d)
+![Preview](https://github.com/sneakyevil/SD-RenderTweaker/assets/29150970/10f9af4e-beb9-4874-8d1e-0518a2b778c3)
 
 # Bug Reports/Requests
 If there is any bug or you got any request, open the issue and properly describe about the thing.
