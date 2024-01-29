@@ -39,9 +39,11 @@
     - Popup:
       - Region Indicator
       - Social Award
+      - Objective Indicator
     - Overlay:
       - Action Buttons (Combat, Arrest, etc...)
       - Action Prompts (Vault, Sleep, etc...)
+      - Crosshair
       - Objective Indicator
   - UI:
     - Text:
