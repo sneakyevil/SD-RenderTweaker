@@ -37,6 +37,7 @@
     - Face Meter
     - Weapon Ammo
     - Popup:
+      - Mission Scoring (Police/Triad XP)
       - Region Indicator
       - Social Award
       - Objective Indicator
