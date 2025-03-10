@@ -1,13 +1,13 @@
 [![Current Release](https://img.shields.io/github/v/release/sneakyevil/SD-RenderTweaker?label=Current%20Release&color=red&id=0)](https://github.com/sneakyevil/SD-RenderTweaker/releases/latest/download/Release.zip)
 ![Downloads](https://img.shields.io/github/downloads/sneakyevil/SD-RenderTweaker/total?label=Total%20Downloads&color=red&id=0)
 ![Latest Downloads](https://img.shields.io/github/downloads/sneakyevil/SD-RenderTweaker/latest/total?color=red&label=Latest%20Downloads&id=0)
----
 
 ## Installation
 1. You will need a compatible [Steam Executable v1.0](https://mega.nz/file/fK5SWARD#1fAWkxAHaKCIMDaJ5XAQKvjs6gK4RCQo5ZlvvtHWtVw). 
 2. Download the latest `Release.zip` file from Releases or by [clicking here](https://github.com/sneakyevil/SD-RenderTweaker/releases/latest/download/Release.zip).
 3. Extract all files into the game folder.
 - Linux Users, add the following to the game's launch options: `WINEDLLOVERRIDES="dinput8=n,b" %command%`.
+- Toggle Keys: <kbd>F10</kbd>, <kbd>HOME</kbd>
 
 ## Preview
 ![Preview](preview.png)
