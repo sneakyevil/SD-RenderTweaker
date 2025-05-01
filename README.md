@@ -17,8 +17,13 @@ If you encounter a bug or have a request, open an issue and provide a clear desc
 
 ## List of features
 - Camera:
-  - FOV
+  - On-Foot:
+    - FOV
+    - Walking FOV
+    - Aim FOV
+    - Combat FOV 
   - Vehicle:
+    - FOV 
     - Auto Center
     - Reverse Rotation
 - Text:
