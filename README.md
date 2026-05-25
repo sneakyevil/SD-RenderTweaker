@@ -38,10 +38,12 @@ If you encounter a bug or have a request, open an issue and provide a clear desc
     - Region Indicator
     - XP Flasher (Police/Triad)
   - Overlay:
+    - Auto Save Icon 
     - Action Button
     - Action Prompt
     - Crosshair (Reticle)
     - Objective Indicator (Icon)
+    - Social Popups
 - Renderer:
   - Ambient Occlusion (AO)
   - Anti-Aliasing (AA)
@@ -58,6 +60,7 @@ If you encounter a bug or have a request, open an issue and provide a clear desc
   - World-FX:
     - Health UI
 - Highlight System:
+  - Weapon
   - Attacking Character (Combat)
   - Environment Objects (Combat/Grapple)
   - Explosives
