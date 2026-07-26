@@ -50,6 +50,7 @@ If you encounter a bug or have a request, open an issue and provide a clear desc
   - Depth Of Field (DOF)
   - Hair Blur
   - HDR Bloom
+  - Distant Fog
   - Volumetric Cloud Fog
   - Planar Reflections
   - Sky Irradiance Volumes
