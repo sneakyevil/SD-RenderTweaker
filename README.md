@@ -17,6 +17,7 @@ If you encounter a bug or have a request, open an issue and provide a clear desc
 
 ## List of features
 - Camera:
+  - Controller Smoothing 
   - On-Foot:
     - FOV
     - Walking FOV
@@ -25,6 +26,7 @@ If you encounter a bug or have a request, open an issue and provide a clear desc
   - Vehicle:
     - FOV 
     - Auto Center
+    - Follow Blend
     - Reverse Rotation
 - Text:
   - Global, Subtitle 
