@@ -57,6 +57,7 @@ If you encounter a bug or have a request, open an issue and provide a clear desc
   - Planar Reflections
   - Sky Irradiance Volumes
   - Cull Distance
+  - Cutscene Letterboxing
   - Post-FX:
     - Combat Meter
     - Zodiac Tournament
