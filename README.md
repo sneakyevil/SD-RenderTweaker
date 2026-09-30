@@ -27,6 +27,7 @@ If you encounter a bug or have a request, open an issue and provide a clear desc
     - FOV 
     - Auto Center
     - Follow Blend
+    - Tilt
     - Reverse Rotation
 - Text:
   - Global, Subtitle 
